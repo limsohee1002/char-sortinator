@@ -1,0 +1,11 @@
+{
+  "name": "char-sortinator",
+  "version": "1.0.0",
+  "description": "Char Sortinator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sohee lim",
+  "license": "ISC"
+}
